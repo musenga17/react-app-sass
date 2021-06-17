@@ -1,0 +1,11 @@
+@import url("https://fonts.googleapis.com/css?family=Josefin+Sans");
+
+body {
+  font-family: "Josefin Sans", cursive;
+  background-color: $color1;
+}
+
+.container {
+  max-width: $site-max-width;
+  margin: 0 auto;
+}
